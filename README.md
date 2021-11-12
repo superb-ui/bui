@@ -1,15 +1,15 @@
 <h1 align="center"><i>BUI</i></h1>
-<p align="center">UI and colors management that <i>SuperB</i></p>
+<p align="center">UI and colors management that <b>NOT</b> <i>SuperB</i></p>
 <p align="center"><a href="http://pndsndn.blog79.fc2.com/blog-entry-207.html"><img src="https://blog-imgs-132.fc2.com/p/n/d/pndsndn/nyaberin.gif"></a></p>
 <h6 align="center">Artwork by <a href="https://www.pixiv.net/en/users/3605217">いのふとん</a></h6>
-<p align="center"><a href="https://github.com/NNBnh/bui/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/bui?labelColor=585858&color=F7CA88&style=for-the-badge" alt="License: GPL-3.0"></a> <img src="https://img.shields.io/github/last-commit/NNBnh/bui?labelColor=585858&color=F7CA88&style=for-the-badge"></p>
+<p align="center"><a href="https://github.com/NNBnh/bui/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/bui?labelColor=585858&color=F7CA88&style=for-the-badge" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-abandoned"><img src="https://img.shields.io/badge/development-abandoned-%23F7CA88.svg?labelColor=585858&style=for-the-badge"></a></p>
 <p align="center"><a href="https://github.com/NNBnh/bui/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bui/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bui/network/members"><img src="https://img.shields.io/github/forks/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/bui/issues"><img src="https://img.shields.io/github/issues/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## About
 ***BUI*** is a UI and colors management method that export the colors hex through environment variables so any program that can read environment variables can used it.
 
 ## Features
-`#TODO`
+0
 
 ## Contents
 - [About](#about)
@@ -233,10 +233,19 @@ export BUI_COLOR_TERMINAL015="$BUI_COLOR_LIGHT_ALT"
 ###### See my [Environment variables](https://github.com/NNBnh/dots/blob/master/home/.config/env#L60) for more information and explanations.
 
 ## Integrate
-- [`bui-appearance`](https://github.com/NNBnh/bui-appearance): for widget toolkit ([GTK](https://www.gtk.org))
+- [`bui-appearance`](https://github.com/superb-ui/bui-appearance): for widget toolkit ([GTK](https://www.gtk.org))
 - [`bui-terminal`](https://github.com/NNBnh/bui-terminal): for terminal
 - [`bui.kak`](https://github.com/NNBnh/bui.kak): for [Kakoune](http://kakoune.org)
 
 ## Resources
 - [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit)
 - [Base16](chriskempson.com/projects/base16) by [Chris Kempson](http://chriskempson.com)
+
+
+<br><br><br><br>
+
+---
+
+> <h1 align="center">Fork with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
