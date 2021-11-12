@@ -234,7 +234,7 @@ export BUI_COLOR_TERMINAL015="$BUI_COLOR_LIGHT_ALT"
 
 ## Integrate
 - [`bui-appearance`](https://github.com/superb-ui/bui-appearance): for widget toolkit ([GTK](https://www.gtk.org))
-- [`bui-terminal`](https://github.com/NNBnh/bui-terminal): for terminal
+- [`bui-terminal`](https://github.com/superb-ui/bui-terminal): for terminal
 - [`bui.kak`](https://github.com/NNBnh/bui.kak): for [Kakoune](http://kakoune.org)
 
 ## Resources
