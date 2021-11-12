@@ -1,3 +1,7 @@
+> # ⚠️ Please use [any other color schemes manager](https://github.com/NNBnh/dots/wiki/which#-color-schemes-manager) but this.
+>
+> ---
+
 <h1 align="center"><i>BUI</i></h1>
 <p align="center">UI and colors management that <b>NOT</b> <i>SuperB</i></p>
 <p align="center"><a href="http://pndsndn.blog79.fc2.com/blog-entry-207.html"><img src="https://blog-imgs-132.fc2.com/p/n/d/pndsndn/nyaberin.gif"></a></p>
